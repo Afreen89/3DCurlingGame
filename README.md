@@ -1,5 +1,7 @@
 # 3DCurlingGame
 This code repository is for a 3D curling game played by two teams (5 stones each). 
+You can check out the software demonstration [here](https://www.youtube.com/watch?v=iWSlO-zKxm8)
+
 The game code is in following three files:
 
 Curlinggame3D.cpp
